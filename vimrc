@@ -68,8 +68,8 @@ let g:jsx_ext_required = 0
 " === Keybindings ===
 
 " == junegunn/fzf ==
-nnoremap <C-T> :FZF<CR>
-inoremap <C-T> <ESC>:FZF<CR>i
+nnoremap <C-P> :FZF<CR>
+inoremap <C-P> <ESC>:FZF<CR>i
 
 " == scrooloose/nerdtree ==
 nnoremap <C-\> :NERDTreeToggle<CR>
